@@ -1,0 +1,1 @@
+Simple website. But main purpose is to get a better understanding of Git, GitHub and VS Code.
